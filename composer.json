@@ -12,5 +12,8 @@
     }
   ],
   "minimum-stability": "beta",
-  "require": {}
+  "require": {
+    "guzzlehttp/guzzle": "^7.5",
+    "monolog/monolog": "^3.2"
+  }
 }
